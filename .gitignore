@@ -229,3 +229,4 @@ done.txt
 .gitignore
 .DS_Store
 buckup/
+*.sqlite
